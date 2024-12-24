@@ -1,0 +1,27 @@
+.env
+knowledge_bases
+docstore.json
+faiss_index.idx
+index_to_docstore_id.json
+loadvectore.ipynb
+vectorstore.ipynb
+__pycache__
+knowledge_base
+myenv
+faculty_details
+new_model.ipynb
+new_model.py
+json
+JSON 2
+JSON_FACULTY copy
+json_output
+all_transformed_data.json
+deletion_updation.ipynb
+exel_data.ipynb
+frequency_dictionary_en_82_765.txt
+Permanent Faculty TT- 02 July.xlsx
+queryprocess.py
+transformed_schedule.json
+uploadData.ipynb
+uploaddata1.ipynb
+json_outpu1
